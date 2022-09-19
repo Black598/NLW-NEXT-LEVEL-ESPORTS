@@ -1,2 +1,13 @@
-# NLW-NEXT-LEVEL-ESPORTS
-minha pagina de games do projeto NLW
+# NLW eSports 
+>Trilha Explorer
+
+!{preview}(./.github/preview.png)
+
+Projeto contruido do evento Next Level Week da Rocketseat
+
+[clique aqui para para acessar] [https://github.com/Black598/NLW-NEXT-LEVEL-ESPORTS/edit/main]
+
+## Tecnologias 
+- HTML
+- CSS
+- Git e Github
