@@ -5,7 +5,7 @@
 
 Projeto contruido do evento Next Level Week da Rocketseat
 
-[clique aqui para para acessar] [https://github.com/Black598/NLW-NEXT-LEVEL-ESPORTS/edit/main]
+[clique aqui para para acessar] [https://github.com/Black598/NLW-NEXT-LEVEL-ESPORTS/]
 
 ## Tecnologias 
 - HTML
